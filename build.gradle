@@ -38,8 +38,8 @@ dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-mustache'
 }
 
-jar{
-	enabled=false
+jar {
+	enabled = false
 }
 
 
